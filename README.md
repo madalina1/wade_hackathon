@@ -10,4 +10,6 @@ In the file.rdf you can find the output of the rdf-generator.py. We created a RD
 
 Also, at the end of the file, all the Places are represented with their countyCode and leiCode. 
 
-We (Madalina and Daniel) worked together to parse and generate the rdf file.
+We (Madalina Insuratelu and Daniel Oana) worked together to parse and generate the rdf file.
+
+Note: Rares Podaru left the team, only Madalina and Daniel compose the team.
