@@ -1,0 +1,683 @@
+@prefix ns1: <https://schema.org/EducationalOrganization/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Academia-Forţelor-Aeriene-Henri-Coandă-din-Braşov a ns1:University ;
+    ns1:id 54 ;
+    ns1:legalName "Academia Forţelor Aeriene Henri Coandă din Braşov" ;
+    ns1:leiCode "U54" ;
+    ns1:location <https://schema.org/Place/Braşov> .
+
+ns1:Academia-Forţelor-Terestre-Nicolae-Bălcescu-din-Sibiu a ns1:University ;
+    ns1:id 56 ;
+    ns1:legalName "Academia Forţelor Terestre Nicolae Bălcescu din Sibiu" ;
+    ns1:leiCode "U56" ;
+    ns1:location <https://schema.org/Place/Sibiu> .
+
+ns1:Academia-Navală-Mircea-cel-Bătrân-din-Constanţa a ns1:University ;
+    ns1:id 55 ;
+    ns1:legalName "Academia Navală Mircea cel Bătrân din Constanţa" ;
+    ns1:leiCode "U55" ;
+    ns1:location <https://schema.org/Place/Constanţa> .
+
+ns1:Academia-Naţională-de-Informaţii-Mihai-Viteazul-din-Bucureşti a ns1:University ;
+    ns1:id 52 ;
+    ns1:legalName "Academia Naţională de Informaţii Mihai Viteazul din Bucureşti" ;
+    ns1:leiCode "U52" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Academia-Romana a ns1:University ;
+    ns1:id 500 ;
+    ns1:legalName "Academia Romana" ;
+    ns1:leiCode "U57" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Academia-Tehnică-Militară-Ferdinand-I-din-București a ns1:University ;
+    ns1:id 50 ;
+    ns1:legalName "Academia Tehnică Militară Ferdinand I din București" ;
+    ns1:leiCode "U50" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Academia-de-Muzică-Gheorghe-Dima-din-Cluj-Napoca a ns1:University ;
+    ns1:id 22 ;
+    ns1:legalName "Academia de Muzică Gheorghe Dima din Cluj-Napoca" ;
+    ns1:leiCode "U22" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+ns1:Academia-de-Poliţie-Alexandru-Ioan-Cuza-din-Bucureşti a ns1:University ;
+    ns1:id 53 ;
+    ns1:legalName "Academia de Poliţie Alexandru Ioan Cuza din Bucureşti" ;
+    ns1:leiCode "U53" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Academia-de-Studii-Economice-din-Bucureşti a ns1:University ;
+    ns1:id 7 ;
+    ns1:legalName "Academia de Studii Economice din Bucureşti" ;
+    ns1:leiCode "U07" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Fundaţia-Gaudeamus---Universitatea-Tomis-din-Constanţa a ns1:University ;
+    ns1:id 110 ;
+    ns1:legalName "Fundaţia Gaudeamus - Universitatea Tomis din Constanţa" ;
+    ns1:leiCode "PA19" ;
+    ns1:location <https://schema.org/Place/Constanţa> .
+
+ns1:Fundaţia-Lumina---Instituţii-de-Învăţământ---Universitatea-Europei-de-Sud-Est-Lumina a ns1:University ;
+    ns1:id 112 ;
+    ns1:legalName "Fundaţia Lumina - Instituţii de Învăţământ - Universitatea Europei de Sud Est-Lumina" ;
+    ns1:leiCode "PA21" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Fundaţia-pentru-Cultură-şi-Învăţământ-Ioan-Slavici---Universitatea-Ioan-Slavici-din-Timişoara a ns1:University ;
+    ns1:id 104 ;
+    ns1:legalName "Fundaţia pentru Cultură şi Învăţământ Ioan Slavici - Universitatea Ioan Slavici din Timişoara" ;
+    ns1:leiCode "PA13" ;
+    ns1:location <https://schema.org/Place/Timiş> .
+
+ns1:Fundaţia-Ştefan-Lupaşcu---Institutul-de-Studii-Europene-din-Iaşi a ns1:University ;
+    ns1:id 97 ;
+    ns1:legalName "Fundaţia Ştefan Lupaşcu - Institutul de Studii Europene din Iaşi" ;
+    ns1:leiCode "PA06" ;
+    ns1:location <https://schema.org/Place/Iaşi> .
+
+ns1:Institutul-Teologic-Baptist-din-Bucureşti a ns1:University ;
+    ns1:id 69 ;
+    ns1:legalName "Institutul Teologic Baptist din Bucureşti" ;
+    ns1:leiCode "P13" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Institutul-Teologic-Creştin-după-Evanghelie-Timotheus-din-Bucureşti a ns1:University ;
+    ns1:id 111 ;
+    ns1:legalName "Institutul Teologic Creştin după Evanghelie Timotheus din Bucureşti" ;
+    ns1:leiCode "PA20" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Institutul-Teologic-Penticostal-din-Bucureşti a ns1:University ;
+    ns1:id 85 ;
+    ns1:legalName "Institutul Teologic Penticostal din Bucureşti" ;
+    ns1:leiCode "P29" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Institutul-Teologic-Protestant-din-Cluj-Napoca a ns1:University ;
+    ns1:id 91 ;
+    ns1:legalName "Institutul Teologic Protestant din Cluj-Napoca" ;
+    ns1:leiCode "P35" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+ns1:Institutul-Teologic-Romano-Catolic-Franciscan-din-Roman a ns1:University ;
+    ns1:id 101 ;
+    ns1:legalName "Institutul Teologic Romano-Catolic Franciscan din Roman" ;
+    ns1:leiCode "PA10" ;
+    ns1:location <https://schema.org/Place/Neamţ> .
+
+ns1:Institutul-Teologic-Romano-Catolic-din-Iaşi a ns1:University ;
+    ns1:id 98 ;
+    ns1:legalName "Institutul Teologic Romano-Catolic din Iaşi" ;
+    ns1:leiCode "PA07" ;
+    ns1:location <https://schema.org/Place/Iaşi> .
+
+ns1:Institutul-de-Administrare-a-Afacerilor-din-Bucureşti a ns1:University ;
+    ns1:id 90 ;
+    ns1:legalName "Institutul de Administrare a Afacerilor din Bucureşti" ;
+    ns1:leiCode "P34" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-1-decembrie-1918-din-Alba-Iulia a ns1:University ;
+    ns1:id 13 ;
+    ns1:legalName "Universitatea 1 decembrie 1918 din Alba Iulia" ;
+    ns1:leiCode "U13" ;
+    ns1:location <https://schema.org/Place/Alba> .
+
+ns1:Universitatea-Adventus-din-Cernica a ns1:University ;
+    ns1:id 94 ;
+    ns1:legalName "Universitatea Adventus din Cernica" ;
+    ns1:leiCode "PA03" ;
+    ns1:location <https://schema.org/Place/Ilfov> .
+
+ns1:Universitatea-Agora-din-Municipiul-Oradea a ns1:University ;
+    ns1:id 100 ;
+    ns1:legalName "Universitatea Agora din Municipiul Oradea" ;
+    ns1:leiCode "PA09" ;
+    ns1:location <https://schema.org/Place/Bihor> .
+
+ns1:Universitatea-Alexandru-Ioan-Cuza-din-Iaşi a ns1:University ;
+    ns1:id 31 ;
+    ns1:legalName "Universitatea Alexandru Ioan Cuza din Iaşi" ;
+    ns1:leiCode "U31" ;
+    ns1:location <https://schema.org/Place/Iaşi> .
+
+ns1:Universitatea-Andrei-Şaguna-din-Constanţa a ns1:University ;
+    ns1:id 74 ;
+    ns1:legalName "Universitatea Andrei Şaguna din Constanţa" ;
+    ns1:leiCode "P18" ;
+    ns1:location <https://schema.org/Place/Constanţa> .
+
+ns1:Universitatea-Apollonia-din-Iaşi a ns1:University ;
+    ns1:id 88 ;
+    ns1:legalName "Universitatea Apollonia din Iaşi" ;
+    ns1:leiCode "P32" ;
+    ns1:location <https://schema.org/Place/Iaşi> .
+
+ns1:Universitatea-Artifex-din-Bucureşti a ns1:University ;
+    ns1:id 67 ;
+    ns1:legalName "Universitatea Artifex din Bucureşti" ;
+    ns1:leiCode "P11" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Athenaeum-din-Bucureşti a ns1:University ;
+    ns1:id 66 ;
+    ns1:legalName "Universitatea Athenaeum din Bucureşti" ;
+    ns1:leiCode "P10" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Aurel-Vlaicu-din-Arad a ns1:University ;
+    ns1:id 14 ;
+    ns1:legalName "Universitatea Aurel Vlaicu din Arad" ;
+    ns1:leiCode "U14" ;
+    ns1:location <https://schema.org/Place/Arad> .
+
+ns1:Universitatea-Avram-Iancu-din-Cluj-Napoca a ns1:University ;
+    ns1:id 84 ;
+    ns1:legalName "Universitatea Avram Iancu din Cluj-Napoca" ;
+    ns1:leiCode "P28" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+ns1:Universitatea-Babeş-Bolyai-din-Cluj-Napoca a ns1:University ;
+    ns1:id 20 ;
+    ns1:legalName "Universitatea Babeş-Bolyai din Cluj-Napoca" ;
+    ns1:leiCode "U20" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+ns1:Universitatea-Bioterra-din-Bucureşti a ns1:University ;
+    ns1:id 63 ;
+    ns1:legalName "Universitatea Bioterra din Bucureşti" ;
+    ns1:leiCode "P07" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Bogdan-Vodă-din-Cluj-Napoca a ns1:University ;
+    ns1:id 73 ;
+    ns1:legalName "Universitatea Bogdan Vodă din Cluj-Napoca" ;
+    ns1:leiCode "P17" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+ns1:Universitatea-Constantin-Brâncoveanu-din-Piteşti a ns1:University ;
+    ns1:id 79 ;
+    ns1:legalName "Universitatea Constantin Brâncoveanu din Piteşti" ;
+    ns1:leiCode "P23" ;
+    ns1:location <https://schema.org/Place/Argeş> .
+
+ns1:Universitatea-Constantin-Brâncuşi-din-Târgu-Jiu a ns1:University ;
+    ns1:id 42 ;
+    ns1:legalName "Universitatea Constantin Brâncuşi din Târgu Jiu" ;
+    ns1:leiCode "U42" ;
+    ns1:location <https://schema.org/Place/Gorj> .
+
+ns1:Universitatea-Creştină-Dimitrie-Cantemir-din-Bucureşti a ns1:University ;
+    ns1:id 57 ;
+    ns1:legalName "Universitatea Creştină Dimitrie Cantemir din Bucureşti" ;
+    ns1:leiCode "P01" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Creştină-Partium-din-Oradea a ns1:University ;
+    ns1:id 86 ;
+    ns1:legalName "Universitatea Creştină Partium din Oradea" ;
+    ns1:leiCode "P30" ;
+    ns1:location <https://schema.org/Place/Bihor> .
+
+ns1:Universitatea-Danubius-din-Galaţi a ns1:University ;
+    ns1:id 75 ;
+    ns1:legalName "Universitatea Danubius din Galaţi" ;
+    ns1:leiCode "P19" ;
+    ns1:location <https://schema.org/Place/Galaţi> .
+
+ns1:Universitatea-Dimitrie-Cantemir-din-Târgu-Mureş a ns1:University ;
+    ns1:id 81 ;
+    ns1:legalName "Universitatea Dimitrie Cantemir din Târgu Mureş" ;
+    ns1:leiCode "P25" ;
+    ns1:location <https://schema.org/Place/Mureş> .
+
+ns1:Universitatea-Dunărea-de-Jos-din-Galaţi a ns1:University ;
+    ns1:id 28 ;
+    ns1:legalName "Universitatea Dunărea de Jos din Galaţi" ;
+    ns1:leiCode "U28" ;
+    ns1:location <https://schema.org/Place/Galaţi> .
+
+ns1:Universitatea-Ecologică-din-Bucureşti a ns1:University ;
+    ns1:id 64 ;
+    ns1:legalName "Universitatea Ecologică din Bucureşti" ;
+    ns1:leiCode "P08" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Eftimie-Murgu-din-Reşiţa a ns1:University ;
+    ns1:id 38 ;
+    ns1:legalName "Universitatea Eftimie Murgu din Reşiţa" ;
+    ns1:leiCode "U38" ;
+    ns1:location <https://schema.org/Place/Caraş-Severin> .
+
+ns1:Universitatea-Emanuel-din-Oradea a ns1:University ;
+    ns1:id 78 ;
+    ns1:legalName "Universitatea Emanuel din Oradea" ;
+    ns1:leiCode "P22" ;
+    ns1:location <https://schema.org/Place/Bihor> .
+
+ns1:Universitatea-Europeană-Drăgan-din-Lugoj a ns1:University ;
+    ns1:id 76 ;
+    ns1:legalName "Universitatea Europeană Drăgan din Lugoj" ;
+    ns1:leiCode "P20" ;
+    ns1:location <https://schema.org/Place/Timiş> .
+
+ns1:Universitatea-George-Bacovia-din-Bacău a ns1:University ;
+    ns1:id 71 ;
+    ns1:legalName "Universitatea George Bacovia din Bacău" ;
+    ns1:leiCode "P15" ;
+    ns1:location <https://schema.org/Place/Bacău> .
+
+ns1:Universitatea-George-Bariţiu-din-Braşov a ns1:University ;
+    ns1:id 72 ;
+    ns1:legalName "Universitatea George Bariţiu din Braşov" ;
+    ns1:leiCode "P16" ;
+    ns1:location <https://schema.org/Place/Braşov> .
+
+ns1:Universitatea-Hyperion-din-Bucureşti a ns1:University ;
+    ns1:id 61 ;
+    ns1:legalName "Universitatea Hyperion din Bucureşti" ;
+    ns1:leiCode "P05" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Lucian-Blaga-din-Sibiu a ns1:University ;
+    ns1:id 39 ;
+    ns1:legalName "Universitatea Lucian Blaga din Sibiu" ;
+    ns1:leiCode "U39" ;
+    ns1:location <https://schema.org/Place/Sibiu> .
+
+ns1:Universitatea-Maritimă-din-Constanţa a ns1:University ;
+    ns1:id 25 ;
+    ns1:legalName "Universitatea Maritimă din Constanţa" ;
+    ns1:leiCode "U25" ;
+    ns1:location <https://schema.org/Place/Constanţa> .
+
+ns1:Universitatea-Naţională-de-Apărare-Carol-I-din-Bucureşti a ns1:University ;
+    ns1:id 51 ;
+    ns1:legalName "Universitatea Naţională de Apărare Carol I din Bucureşti" ;
+    ns1:leiCode "U51" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Naţională-de-Arte-George-Enescu-din-Iaşi a ns1:University ;
+    ns1:id 33 ;
+    ns1:legalName "Universitatea Naţională de Arte George Enescu din Iaşi" ;
+    ns1:leiCode "U33" ;
+    ns1:location <https://schema.org/Place/Iaşi> .
+
+ns1:Universitatea-Naţională-de-Arte-din-Bucureşti a ns1:University ;
+    ns1:id 9 ;
+    ns1:legalName "Universitatea Naţională de Arte din Bucureşti" ;
+    ns1:leiCode "U09" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Naţională-de-Artă-Teatrală-şi-Cinematografică-I.-L.-Caragiale-din-Bucureşti a ns1:University ;
+    ns1:id 10 ;
+    ns1:legalName "Universitatea Naţională de Artă Teatrală şi Cinematografică I. L. Caragiale din Bucureşti" ;
+    ns1:leiCode "U10" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Naţională-de-Educaţie-Fizică-şi-Sport-din-Bucureşti a ns1:University ;
+    ns1:id 11 ;
+    ns1:legalName "Universitatea Naţională de Educaţie Fizică şi Sport din Bucureşti" ;
+    ns1:leiCode "U11" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Naţională-de-Muzică-din-Bucureşti a ns1:University ;
+    ns1:id 8 ;
+    ns1:legalName "Universitatea Naţională de Muzică din Bucureşti" ;
+    ns1:leiCode "U08" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Nicolae-Titulescu-din-Bucureşti a ns1:University ;
+    ns1:id 59 ;
+    ns1:legalName "Universitatea Nicolae Titulescu din Bucureşti" ;
+    ns1:leiCode "P03" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Ovidius-din-Constanţa a ns1:University ;
+    ns1:id 24 ;
+    ns1:legalName "Universitatea Ovidius din Constanţa" ;
+    ns1:leiCode "U24" ;
+    ns1:location <https://schema.org/Place/Constanţa> .
+
+ns1:Universitatea-Petre-Andrei-din-Iaşi a ns1:University ;
+    ns1:id 87 ;
+    ns1:legalName "Universitatea Petre Andrei din Iaşi" ;
+    ns1:leiCode "P31" ;
+    ns1:location <https://schema.org/Place/Iaşi> .
+
+ns1:Universitatea-Petrol-Gaze-din-Ploieşti a ns1:University ;
+    ns1:id 37 ;
+    ns1:legalName "Universitatea Petrol-Gaze din Ploieşti" ;
+    ns1:leiCode "U37" ;
+    ns1:location <https://schema.org/Place/Prahova> .
+
+ns1:Universitatea-Petru-Maior-din-Târgu-Mureş a ns1:University ;
+    ns1:id 43 ;
+    ns1:legalName "Universitatea Petru Maior din Târgu Mureş" ;
+    ns1:leiCode "U43" ;
+    ns1:location <https://schema.org/Place/Mureş> .
+
+ns1:Universitatea-Politehnica-Timişoara a ns1:University ;
+    ns1:id 46 ;
+    ns1:legalName "Universitatea Politehnica Timişoara" ;
+    ns1:leiCode "U46" ;
+    ns1:location <https://schema.org/Place/Timiş> .
+
+ns1:Universitatea-Politehnica-din-Bucureşti a ns1:University ;
+    ns1:id 1 ;
+    ns1:legalName "Universitatea Politehnica din Bucureşti" ;
+    ns1:leiCode "U01" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Româno-Americană-din-Bucureşti a ns1:University ;
+    ns1:id 60 ;
+    ns1:legalName "Universitatea Româno-Americană din Bucureşti" ;
+    ns1:leiCode "P04" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Româno-Germană-din-Sibiu a ns1:University ;
+    ns1:id 80 ;
+    ns1:legalName "Universitatea Româno-Germană din Sibiu" ;
+    ns1:leiCode "P24" ;
+    ns1:location <https://schema.org/Place/Sibiu> .
+
+ns1:Universitatea-Română-de-Ştiinţe-şi-Arte-Gheorghe-Cristea-din-Bucureşti a ns1:University ;
+    ns1:id 65 ;
+    ns1:legalName "Universitatea Română de Ştiinţe şi Arte Gheorghe Cristea din Bucureşti" ;
+    ns1:leiCode "P09" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Sapientia-din-Cluj-Napoca a ns1:University ;
+    ns1:id 95 ;
+    ns1:legalName "Universitatea Sapientia din Cluj-Napoca" ;
+    ns1:leiCode "PA04" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+ns1:Universitatea-Spiru-Haret-din-Bucureşti a ns1:University ;
+    ns1:id 62 ;
+    ns1:legalName "Universitatea Spiru Haret din Bucureşti" ;
+    ns1:leiCode "P06" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Tehnică-Gheorghe-Asachi-din-Iaşi a ns1:University ;
+    ns1:id 29 ;
+    ns1:legalName "Universitatea Tehnică Gheorghe Asachi din Iaşi" ;
+    ns1:leiCode "U29" ;
+    ns1:location <https://schema.org/Place/Iaşi> .
+
+ns1:Universitatea-Tehnică-de-Construcţii-din-Bucureşti a ns1:University ;
+    ns1:id 2 ;
+    ns1:legalName "Universitatea Tehnică de Construcţii din Bucureşti" ;
+    ns1:leiCode "U02" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Tehnică-din-Cluj-Napoca a ns1:University ;
+    ns1:id 18 ;
+    ns1:legalName "Universitatea Tehnică din Cluj-Napoca" ;
+    ns1:leiCode "U18" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+ns1:Universitatea-Tibiscus-din-Timişoara a ns1:University ;
+    ns1:id 83 ;
+    ns1:legalName "Universitatea Tibiscus din Timişoara" ;
+    ns1:leiCode "P27" ;
+    ns1:location <https://schema.org/Place/Timiş> .
+
+ns1:Universitatea-Titu-Maiorescu-din-Bucureşti a ns1:University ;
+    ns1:id 58 ;
+    ns1:legalName "Universitatea Titu Maiorescu din Bucureşti" ;
+    ns1:leiCode "P02" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-Transilvania-din-Braşov a ns1:University ;
+    ns1:id 17 ;
+    ns1:legalName "Universitatea Transilvania din Braşov" ;
+    ns1:leiCode "U17" ;
+    ns1:location <https://schema.org/Place/Braşov> .
+
+ns1:Universitatea-Valahia-din-Târgovişte a ns1:University ;
+    ns1:id 41 ;
+    ns1:legalName "Universitatea Valahia din Târgovişte" ;
+    ns1:leiCode "U41" ;
+    ns1:location <https://schema.org/Place/Dâmboviţa> .
+
+ns1:Universitatea-Vasile-Alecsandri-din-Bacău a ns1:University ;
+    ns1:id 15 ;
+    ns1:legalName "Universitatea Vasile Alecsandri din Bacău" ;
+    ns1:leiCode "U15" ;
+    ns1:location <https://schema.org/Place/Bacău> .
+
+ns1:Universitatea-de-Arhitectură-şi-Urbanism-Ion-Mincu-din-Bucureşti a ns1:University ;
+    ns1:id 3 ;
+    ns1:legalName "Universitatea de Arhitectură şi Urbanism Ion Mincu din Bucureşti" ;
+    ns1:leiCode "U03" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-de-Arte-din-Târgu-Mureş a ns1:University ;
+    ns1:id 45 ;
+    ns1:legalName "Universitatea de Arte din Târgu Mureş" ;
+    ns1:leiCode "U45" ;
+    ns1:location <https://schema.org/Place/Mureş> .
+
+ns1:Universitatea-de-Artă-şi-Design-din-Cluj-Napoca a ns1:University ;
+    ns1:id 23 ;
+    ns1:legalName "Universitatea de Artă şi Design din Cluj-Napoca" ;
+    ns1:leiCode "U23" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+<https://schema.org/EducationalOrganization/Universitatea-de-Medicină,-Farmacie,-Științe-și-Tehnologie-George-Emil-Palade-din-Târgu-Mureș> a ns1:University ;
+    ns1:id 44 ;
+    ns1:legalName "Universitatea de Medicină, Farmacie, Științe și Tehnologie George Emil Palade din Târgu Mureș" ;
+    ns1:leiCode "U44" ;
+    ns1:location <https://schema.org/Place/Mureş> .
+
+ns1:Universitatea-de-Medicină-şi-Farmacie-Carol-Davila-din-Bucureşti a ns1:University ;
+    ns1:id 6 ;
+    ns1:legalName "Universitatea de Medicină şi Farmacie Carol Davila din Bucureşti" ;
+    ns1:leiCode "U06" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-de-Medicină-şi-Farmacie-Grigore-T.-Popa-din-Iaşi a ns1:University ;
+    ns1:id 32 ;
+    ns1:legalName "Universitatea de Medicină şi Farmacie Grigore T. Popa din Iaşi" ;
+    ns1:leiCode "U32" ;
+    ns1:location <https://schema.org/Place/Iaşi> .
+
+ns1:Universitatea-de-Medicină-şi-Farmacie-Iuliu-Haţieganu-din-Cluj-Napoca a ns1:University ;
+    ns1:id 21 ;
+    ns1:legalName "Universitatea de Medicină şi Farmacie Iuliu Haţieganu din Cluj-Napoca" ;
+    ns1:leiCode "U21" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+ns1:Universitatea-de-Medicină-şi-Farmacie-Victor-Babeş-din-Timişoara a ns1:University ;
+    ns1:id 49 ;
+    ns1:legalName "Universitatea de Medicină şi Farmacie Victor Babeş din Timişoara" ;
+    ns1:leiCode "U49" ;
+    ns1:location <https://schema.org/Place/Timiş> .
+
+ns1:Universitatea-de-Medicină-şi-Farmacie-din-Craiova a ns1:University ;
+    ns1:id 27 ;
+    ns1:legalName "Universitatea de Medicină şi Farmacie din Craiova" ;
+    ns1:leiCode "U27" ;
+    ns1:location <https://schema.org/Place/Dolj> .
+
+ns1:Universitatea-de-Vest-Vasile-Goldiş-din-Arad a ns1:University ;
+    ns1:id 70 ;
+    ns1:legalName "Universitatea de Vest Vasile Goldiş din Arad" ;
+    ns1:leiCode "P14" ;
+    ns1:location <https://schema.org/Place/Arad> .
+
+ns1:Universitatea-de-Vest-din-Timişoara a ns1:University ;
+    ns1:id 48 ;
+    ns1:legalName "Universitatea de Vest din Timişoara" ;
+    ns1:leiCode "U48" ;
+    ns1:location <https://schema.org/Place/Timiş> .
+
+ns1:Universitatea-de-Ştiinţe-Agricole-şi-Medicină-Veterinară-Ion-Ionescu-de-La-Brad-din-Iaşi a ns1:University ;
+    ns1:id 30 ;
+    ns1:legalName "Universitatea de Ştiinţe Agricole şi Medicină Veterinară Ion Ionescu de La Brad din Iaşi" ;
+    ns1:leiCode "U30" ;
+    ns1:location <https://schema.org/Place/Iaşi> .
+
+ns1:Universitatea-de-Ştiinţe-Agricole-şi-Medicină-Veterinară-a-Banatului-Regele-Mihai-I-al-României-din-Timişoara a ns1:University ;
+    ns1:id 47 ;
+    ns1:legalName "Universitatea de Ştiinţe Agricole şi Medicină Veterinară a Banatului Regele Mihai I al României din Timişoara" ;
+    ns1:leiCode "U47" ;
+    ns1:location <https://schema.org/Place/Timiş> .
+
+ns1:Universitatea-de-Ştiinţe-Agricole-şi-Medicină-Veterinară-din-Cluj-Napoca a ns1:University ;
+    ns1:id 19 ;
+    ns1:legalName "Universitatea de Ştiinţe Agricole şi Medicină Veterinară din Cluj-Napoca" ;
+    ns1:leiCode "U19" ;
+    ns1:location <https://schema.org/Place/Cluj> .
+
+ns1:Universitatea-de-Științe-Agronomice-și-Medicină-Veterinară-din-București a ns1:University ;
+    ns1:id 4 ;
+    ns1:legalName "Universitatea de Științe Agronomice și Medicină Veterinară din București" ;
+    ns1:leiCode "U04" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-din-Bucureşti a ns1:University ;
+    ns1:id 5 ;
+    ns1:legalName "Universitatea din Bucureşti" ;
+    ns1:leiCode "U05" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+ns1:Universitatea-din-Craiova a ns1:University ;
+    ns1:id 26 ;
+    ns1:legalName "Universitatea din Craiova" ;
+    ns1:leiCode "U26" ;
+    ns1:location <https://schema.org/Place/Dolj> .
+
+ns1:Universitatea-din-Oradea a ns1:University ;
+    ns1:id 34 ;
+    ns1:legalName "Universitatea din Oradea" ;
+    ns1:leiCode "U34" ;
+    ns1:location <https://schema.org/Place/Bihor> .
+
+ns1:Universitatea-din-Petroşani a ns1:University ;
+    ns1:id 35 ;
+    ns1:legalName "Universitatea din Petroşani" ;
+    ns1:leiCode "U35" ;
+    ns1:location <https://schema.org/Place/Hunedoara> .
+
+ns1:Universitatea-din-Piteşti a ns1:University ;
+    ns1:id 36 ;
+    ns1:legalName "Universitatea din Piteşti" ;
+    ns1:leiCode "U36" ;
+    ns1:location <https://schema.org/Place/Argeş> .
+
+ns1:Universitatea-Ştefan-cel-Mare-din-Suceava a ns1:University ;
+    ns1:id 40 ;
+    ns1:legalName "Universitatea Ştefan cel Mare din Suceava" ;
+    ns1:leiCode "U40" ;
+    ns1:location <https://schema.org/Place/Suceava> .
+
+ns1:Şcoala-Naţională-de-Studii-Politice-şi-Administrative-din-Bucureşti a ns1:University ;
+    ns1:id 12 ;
+    ns1:legalName "Şcoala Naţională de Studii Politice şi Administrative din Bucureşti" ;
+    ns1:leiCode "U12" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+<https://schema.org/EducationalOrganization/Şcoala-Normală-Superioară---Bucureşti-(S.N.S.B)> a ns1:University ;
+    ns1:id 506 ;
+    ns1:legalName "Şcoala Normală Superioară - Bucureşti (S.N.S.B)" ;
+    ns1:leiCode "" ;
+    ns1:location <https://schema.org/Place/Bucureşti> .
+
+<https://schema.org/Place/Alba> a ns1:Place ;
+    ns1:county "Alba" ;
+    ns1:leiCode 1 .
+
+<https://schema.org/Place/Caraş-Severin> a ns1:Place ;
+    ns1:county "Caraş-Severin" ;
+    ns1:leiCode 22 .
+
+<https://schema.org/Place/Dâmboviţa> a ns1:Place ;
+    ns1:county "Dâmboviţa" ;
+    ns1:leiCode 25 .
+
+<https://schema.org/Place/Gorj> a ns1:Place ;
+    ns1:county "Gorj" ;
+    ns1:leiCode 27 .
+
+<https://schema.org/Place/Hunedoara> a ns1:Place ;
+    ns1:county "Hunedoara" ;
+    ns1:leiCode 30 .
+
+<https://schema.org/Place/Ilfov> a ns1:Place ;
+    ns1:county "Ilfov" ;
+    ns1:leiCode 32 .
+
+<https://schema.org/Place/Neamţ> a ns1:Place ;
+    ns1:county "Neamţ" ;
+    ns1:leiCode 38 .
+
+<https://schema.org/Place/Prahova> a ns1:Place ;
+    ns1:county "Prahova" ;
+    ns1:leiCode 40 .
+
+<https://schema.org/Place/Suceava> a ns1:Place ;
+    ns1:county "Suceava" ;
+    ns1:leiCode 44 .
+
+<https://schema.org/Place/Arad> a ns1:Place ;
+    ns1:county "Arad" ;
+    ns1:leiCode 3 .
+
+<https://schema.org/Place/Argeş> a ns1:Place ;
+    ns1:county "Argeş" ;
+    ns1:leiCode 2 .
+
+<https://schema.org/Place/Bacău> a ns1:Place ;
+    ns1:county "Bacău" ;
+    ns1:leiCode 13 .
+
+<https://schema.org/Place/Dolj> a ns1:Place ;
+    ns1:county "Dolj" ;
+    ns1:leiCode 26 .
+
+<https://schema.org/Place/Galaţi> a ns1:Place ;
+    ns1:county "Galaţi" ;
+    ns1:leiCode 28 .
+
+<https://schema.org/Place/Braşov> a ns1:Place ;
+    ns1:county "Braşov" ;
+    ns1:leiCode 18 .
+
+<https://schema.org/Place/Sibiu> a ns1:Place ;
+    ns1:county "Sibiu" ;
+    ns1:leiCode 41 .
+
+<https://schema.org/Place/Bihor> a ns1:Place ;
+    ns1:county "Bihor" ;
+    ns1:leiCode 14 .
+
+<https://schema.org/Place/Mureş> a ns1:Place ;
+    ns1:county "Mureş" ;
+    ns1:leiCode 37 .
+
+<https://schema.org/Place/Constanţa> a ns1:Place ;
+    ns1:county "Constanţa" ;
+    ns1:leiCode 23 .
+
+<https://schema.org/Place/Timiş> a ns1:Place ;
+    ns1:county "Timiş" ;
+    ns1:leiCode 46 .
+
+<https://schema.org/Place/Iaşi> a ns1:Place ;
+    ns1:county "Iaşi" ;
+    ns1:leiCode 34 .
+
+<https://schema.org/Place/Cluj> a ns1:Place ;
+    ns1:county "Cluj" ;
+    ns1:leiCode 20 .
+
+<https://schema.org/Place/Bucureşti> a ns1:Place ;
+    ns1:county "Bucureşti" ;
+    ns1:leiCode 4 .
+
