@@ -9,3 +9,5 @@ In the file.rdf you can find the output of the rdf-generator.py. We created a RD
 - university location (location - the location where an organization is located) - where we used the Place concept.
 
 Also, at the end of the file, all the Places are represented with their countyCode and leiCode. 
+
+We (Madalina and Daniel) worked together to parse and generate the rdf file.
